@@ -292,6 +292,16 @@ $c_start 卫视$c_end
 哈哈炫動,http://117.148.179.36/PLTV/88888888/224/3221229065/index.m3u8
 法治天地,http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
 
+$c_start 港台MITV$c_end
+🌟港台MITV,#genre#
+BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
+BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
+
+
+
+
 $c_start 澳门$c_end
 🛰️澳门频道,#genre#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
