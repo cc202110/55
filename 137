@@ -181,6 +181,12 @@ ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 
 
 港台,#genre#
+凤凰资讯,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
+凤凰中文,http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰中文,http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
+凤凰资讯,http://59.44.10.113:9901/tsfile/live/1078_1.m3u8
+凤凰香港,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
 J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
 
 HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
@@ -194,8 +200,7 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+
 
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
@@ -420,23 +425,10 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?b
 摇滚至尊,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
 FTV④,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 FTV④,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-CNBC (1080p) [Not 24/7],http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
 CNBC TV 18 (504p),https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-CNN (720p),http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
-CNN Brasil (1080p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 Fox 23 Tulsa OK (KOKI-TV) (720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-Fox 28 Savannah GA (WTGS) (720p),https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-Fox Boston MA (WFXT1) (720p) [Not 24/7],http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
-Fox Buffalo NY (WUTV1) (720p),http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
 Fox Crime Adria [Offline],https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
 Fox Greece (240p) [Not 24/7],http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-like Gecko Chrome/76.0.3809.25 Safari/537.36,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-Fox News Channel (720p),http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8
-Fox News Radio (720p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-FOX Rochester NY (WUHF-DT1) (720p),http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
-Fox Seattle WA (KCPQ1) (720p),http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
-FOX Spokane WA (KAYU-TV1) (720p),http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
-
 Fox Tallahassee FL (WTWC-TV2) (720p),https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
 Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
@@ -450,45 +442,14 @@ Bloomberg TV US (720p),https://liveproduseast.global.ssl.fastly.net/us/Channel-U
 Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
 Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-ABC 4 Seattle WA (KOMO-TV) (720p),https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-ABC 7 Denver CO (KMGH) (720p),https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-ABC 7 Los Angeles CA (KABC-TV) (720p),https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-ABC 7 Washington DC (WJLA) (720p),https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-ABC 9 Orlando FL (WFTV) (720p),https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-ABC 13 Las Vegas NV (KTNV) (720p),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-ABC 15 Phoenix AZ (KNXV-TV) (720p),https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-ABC News Live 3 (720p),https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-ABC News Live 4 (720p),https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-ABC News Live 5 (720p),https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-ABC News Live 6 (720p),https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-ABC News New York NY (WABC-TV) (720p),https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-CBS 6 Albany NY (WRGB) (720p),https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-CBS 12 West Palm Beach FL (WPEC) (720p),https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
-CBS 47 Action News Jacksonville FL (WJAX-TV) (720p),https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
-
-
-CBS News Baltimore (720p),https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 CBS News Live (360p),https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-CBS News Sacramento (720p),https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
-CBS Seattle WA (KIRO-TV1) (720p),http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
-CBS Seattle WA (KIRO-TV1) (480p),http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle/playlist.m3u8
 CBS Tallahassee FL (WCTV1) (720p) [Not 24/7],https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
 CBSN (720p) [Not 24/7],https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 CBSN Live Event (720p),https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 
-BOO,P2p://ns2.hellotvvod.com:9906/fd66b38ae9014f8183ac6b160b94548b
-BOO,P2p://ns2.hellotvvod.com:9906/fd66b38ae9014f8183ac6b160b94548b
+
 Boomerang,P2p://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
 Boomerang,P2p://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
 Boomerang,P2p://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
@@ -676,27 +637,61 @@ AMC最愛電影,P2p://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
 
 
 泰国,#genre#
-Bluesky,P2p://ns2.hellotvvod.com:9906/b19fc3782ccf446e99dbd70e9471e738
+Channel 5,P2p://ns2.hellotvvod.com:9906/28f5f261eda34cd394050fbe4b2feb48
+NBT,P2p://ns2.hellotvvod.com:9906/c086e007ee644a308fcc83bcb81c3abd
+Thai PBS,P2p://ns2.hellotvvod.com:9906/e5808de64e1c464ebf3f89bb42ac43cc
+Thai Parliament TV,P2p://ns2.hellotvvod.com:9906/0f09c53186d944ba8dfe13bada2795b5
+TNN 16,P2p://ns2.hellotvvod.com:9906/9db5e74290a04e51a576391db32587ba
+JKN 18,P2p://ns2.hellotvvod.com:9906/c9dd4f34008646499693a08d667b9a09
+Top News,P2p://ns2.hellotvvod.com:9906/15234ba313ab4758a1b4e75042ab51fb
+Voice TV,P2p://ns2.hellotvvod.com:9906/7ae49dab58dc4946a081fab8d8223149
+Nation TV,P2p://ns2.hellotvvod.com:9906/9cc060bed67147499d9fb30bfcdbe2ca
+Workpoint TV,P2p://ns2.hellotvvod.com:9906/24401dfb4ff74742ad39cdd38647cf9c
+true4U,P2p://ns2.hellotvvod.com:9906/23f817e521ff470a975a0d9193186680
+GMM 25,P2p://ns2.hellotvvod.com:9906/c543e41d3fe543ee8c79bce53465659e
+Channel 8,P2p://ns2.hellotvvod.com:9906/3b6cc98613aa4e379ad0f4ffb2e59dee
+Mono 29,P2p://ns2.hellotvvod.com:9906/ed2d0563d7224a27bd423401441d9540
 MCOT,P2p://ns2.hellotvvod.com:9906/3d600be29647475ab44a6969cc3291ad
-CLASSICA 古典樂,P2p://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
-CLASSICA 古典樂,P2p://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
+ONE,P2p://ns2.hellotvvod.com:9906/31e206ac69794d6b8e9953d8f623c0c7
+Thairath TV,P2p://ns2.hellotvvod.com:9906/0ee0842a12e947e19bab268b915ac994
+Channel 3,P2p://ns2.hellotvvod.com:9906/2e46441b0c394a299265bdb987a3b1bd
+Amarin TV,P2p://ns2.hellotvvod.com:9906/68ff5de5976d44b397f191911d664937
+Channel 7,P2p://ns2.hellotvvod.com:9906/d0b4b5fbef06418080f3e874eae9fd38
+PPTV,P2p://ns2.hellotvvod.com:9906/da644108b52a4cab90181917c27bd84d
+Bluesky,P2p://ns2.hellotvvod.com:9906/b19fc3782ccf446e99dbd70e9471e738
+Boomerang,P2p://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
+Jatingja,P2p://ns2.hellotvvod.com:9906/72f23afa7a2447c8802176a7e2ba8d21
+Toonee,P2p://ns2.hellotvvod.com:9906/b50d967883604ab9b0efe35839c12cad
+News 1,P2p://ns2.hellotvvod.com:9906/2a15d44201e94b3782f9637ce85fb452
+M Channel,P2p://ns2.hellotvvod.com:9906/98a38a8ec97a4548963d66cea1609f39
+Zee Nung,P2p://ns2.hellotvvod.com:9906/f684bccd353c497bb860f59b31083379
+Channel 4050,P2p://ns2.hellotvvod.com:9906/5872600c6bc244af95ffd83ed1872bd6
+TVB Thai,P2p://ns2.hellotvvod.com:9906/3219c8d39d544ceeb5989382d19f1fe3
+
 
 
 印度,#genre#
+SUN TV,P2p://ns2.hellotvvod.com:9906/7d10e9aadd1146a3b51757f45e032b5b
+Colors Tamil,P2p://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
+CNBC Awaaz,P2p://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
+India TV,P2p://ns2.hellotvvod.com:9906/fdb1faa69d4f4a8e8cddd9e9040a2440
+Janam TV,P2p://ns2.hellotvvod.com:9906/84d4e01a109045f39a7f35d35c5cc9b3
+NDTV,P2p://ns2.hellotvvod.com:9906/a8a495848ac440a590dbbadd7a7f2f4b
+
 ANTV,p5p://fccs.123178.top:9906/61655ddd000887f41354aab33eed3673
+
+澳洲,#genre#
 ABC Australia,P2p://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
 ABC Australia,P2p://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
 
 
 
 體育,#genre#
-CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+
 CCTV5,http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 CCTV5+HD,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+HD,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
 CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
@@ -705,7 +700,6 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
 咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-广东体育,http://nettvpro.live/hls/zjkp.php?id=8
 sport,http://45.232.196.7:5000/live/PremiereFCHD1/1080p.m3u8
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
