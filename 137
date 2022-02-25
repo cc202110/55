@@ -11,10 +11,9 @@ CCTV13,http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
 TVBS新闻台,rtmp://59.124.75.157/sat/tv551
-BBC World News,P2p://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
-CNBC,P2p://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-CNN,P2p://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
-CNN,p5p://fccs.123178.top:9906/616540e1000379c612e37107b5b75c0b
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 
 央视,#genre#
 
@@ -472,46 +471,30 @@ Bloomberg TV,p5p://fccs.123178.top:9906/61654137000ea57c12e4c3d33f38fbea
 
 
 CNA,P2p://ns2.hellotvvod.com:9906/a4e154daf0ed4848bdf59bca959dfecd
-CNA,P2p://ns2.hellotvvod.com:9906/a4e154daf0ed4848bdf59bca959dfecd
 CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
 CNBC Awaaz,P2p://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
-CNBC Awaaz,P2p://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
-CNBC,P2p://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-CNBC,P2p://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-CNBC,P2p://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
 CNBC,P2p://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
 CNN Internationa,p5p://fccs.123178.top:9906/614941fe0007b8690d42a80e92bf1540
-CNN,P2p://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
-CNN,P2p://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
-CNN,P2p://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 CNN,p5p://fccs.123178.top:9906/616540e1000379c612e37107b5b75c0b
 CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通頻道,P2p://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
 CN卡通頻道,P2p://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
 Colors Hindi,P2p://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
-Colors Hindi,P2p://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
-Colors Tamil,P2p://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
 Colors Tamil,P2p://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
 Comedy Central Asia,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
 Discovery Asia,P2p://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 Discovery HD,p5p://fccs.123178.top:9906/6165416a000e027b12e58ae209743984
 Discovery科學頻道,P2p://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
 Disney Junior,P2p://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
-Disney Junior,P2p://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
-Disney Junior,P2p://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
 Disney XD Japan,p5p://fccs.123178.top:9906/6163fad2000b65ef0de9c8776b55d158
 
 Drama Sangat,P2p://ns2.hellotvvod.com:9906/d873d56d1e5d4b4aa02597ce3ff57a7e
 Dreamworks,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
 DW,P2p://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-DW,P2p://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
 DW-TV ASIEN,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
 EBS,P2p://ns2.hellotvvod.com:9906/550363d1e7b34da1aab25a8ae3b5c042
-
 Euronews,P2p://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
-Euronews,P2p://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
-Eurosport HD,P2p://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
 Eurosport HD,P2p://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
 
 
@@ -571,29 +554,18 @@ Astro小太陽,P2p://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
 
 
 Astro Arena 2,P2p://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
-Astro Arena 2,P2p://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
-Astro Arena,P2p://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
 Astro Arena,P2p://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
 Astro Aura HD,P2p://ns2.hellotvvod.com:9906/5e7a3708a99c482390ab8cf0f90a045e
 Astro Awani,P2p://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43
 Astro Ceria,P2p://ns2.hellotvvod.com:9906/aac054f65a244206b6f782eb3956e130
-Astro Ceria,P2p://ns2.hellotvvod.com:9906/aac054f65a244206b6f782eb3956e130
-
-Astro Cricket,P2p://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
 Astro Cricket,P2p://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
 Astro Oasis HD,P2p://ns2.hellotvvod.com:9906/e599d6240fbe444d8a39f34225e40887
 Astro Prima HD,P2p://ns2.hellotvvod.com:9906/5712b148ea8d4b2da1e83c691cf7490b
 Astro Rania HD,P2p://ns2.hellotvvod.com:9906/1aae1307c2d04bd2b7ca5aed1469cd02
 Astro Ria HD,P2p://ns2.hellotvvod.com:9906/c138fff294f2452eb90920d65182fdce
 Astro SuperSport 2,P2p://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
-Astro SuperSport 2,P2p://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
 Astro SuperSport 3,P2p://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
-Astro SuperSport 3,P2p://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
-Astro SuperSport 4,P2p://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
-Astro SuperSport 4,P2p://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
 Astro SuperSport 5,P2p://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
-Astro SuperSport 5,P2p://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
-Astro SuperSport,P2p://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
 Astro SuperSport,P2p://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
 Astro Vaanavil,P2p://ns2.hellotvvod.com:9906/2aad65d4beaa499cb89ab1e0360d12df
 Astro Warna HD,P2p://ns2.hellotvvod.com:9906/1a865f8d00fd497896b0fc1646aa801f
@@ -601,7 +573,6 @@ Astro Warna HD,P2p://ns2.hellotvvod.com:9906/1a865f8d00fd497896b0fc1646aa801f
 Awesome TV,P2p://ns2.hellotvvod.com:9906/90eeca11aacd4523a9e896611279e5f5
 Astro ABO Movies Thangathirai HD,P2p://ns2.hellotvvod.com:9906/bb6421aa1f9c412ea91e34ab14e52717
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
-Al Jazeera English,P2p://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
 Al Jazeera English,P2p://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
 Al-Hijrah,P2p://ns2.hellotvvod.com:9906/5eb2258beb2044b19d919128b2a65c40
 
