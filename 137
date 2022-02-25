@@ -416,56 +416,20 @@ FTV④,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_2
 CNBC TV 18 (504p),https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 Fox 23 Tulsa OK (KOKI-TV) (720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
 Fox Crime Adria [Offline],https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-Fox Greece (240p) [Not 24/7],http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 Fox Tallahassee FL (WTWC-TV2) (720p),https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
 Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
 Bloomberg TV Asia (720p),https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 Bloomberg TV Australia (720p),https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-Bloomberg TV Australia (270p),https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
 Bloomberg TV Europe (720p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-Bloomberg TV Europe (360p),https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 Bloomberg TV US (720p),https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Bloomberg TV US (720p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
-Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 CBS News Live (360p),https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-CBS Tallahassee FL (WCTV1) (720p) [Not 24/7],https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
-CBSN (720p) [Not 24/7],https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-CBSN Live Event (720p),https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 
-
-Boomerang,P2p://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
-Boomerang,P2p://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
-Boomerang,P2p://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
-Boomerang,P2p://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
-Boomerang,P2p://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
-Cartoon Network,P2p://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
-Cartoon Network,P2p://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
-Cartoon Network,P2p://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
-Cartoon Network,P2p://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
-Cartoon Network,P2p://ns2.hellotvvod.com:9906/5419e8cfbb6a496aade3406e257768a7
-Cartoon Network,p5p://fccs.123178.top:9906/6165610d00061e1f13611d9462491f94
-Cbeebies,P2p://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
-Cbeebies,P2p://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
-
-CBSN,P2p://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
-
-CCM,p5p://fccs.123178.top:9906/6165613b0004c1b61361d0ebf6b54882
-
-CGTN,P2p://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
-
-CinemaWorld,P2p://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
-CinemaWorld,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
 CINEMAX,P2p://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
 CINEMAX,P2p://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
 Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
-Bloomberg TV,P2p://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
-Bloomberg TV,P2p://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
-Bloomberg TV,P2p://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
 Bloomberg TV,P2p://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
 Bloomberg TV,p5p://fccs.123178.top:9906/61654137000ea57c12e4c3d33f38fbea
 
