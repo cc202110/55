@@ -90,19 +90,11 @@ CCTV17-农村频道,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3
 哈哈炫動,http://117.148.179.36/PLTV/88888888/224/3221229065/index.m3u8
 法治天地,http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
 
-港台,#genre#
+港台测试_10086,#genre#
 HKC有线新闻台,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
-
-无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-J1台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
 
-HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
-HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
@@ -126,8 +118,6 @@ MoMo综合台,rtmp://59.124.75.157/sat/tv761
 博斯运动,rtmp://59.124.75.157/sat/md031
 
 
-
-
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
@@ -140,17 +130,9 @@ NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 arirang,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
-民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
-民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
-好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 
-港澳台测试_10086,#genre#
+
+港澳台免代_10086,#genre#
 翡翠台,http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 J2,http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 无线新闻,http://dllb.jxin122.top/jj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
